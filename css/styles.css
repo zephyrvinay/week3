@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+
+.digital p {
+  background-color: red;
+}
+
+.analog p {
+  background-color: yellow;
+}
+
+.digital p a {
+  font-weight: bold;
+}
+
+.analog p a {
+  font-style: italic;
+}
